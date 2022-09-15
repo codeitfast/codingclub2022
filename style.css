@@ -30,5 +30,5 @@ body{
 }
 
 #center{
-  transform: translate(0px, 50vh);
+  transform: translate(0px, calc(50vh - 50%));
 }
